@@ -8,7 +8,7 @@
   Created 27.09.2016
   By Azarn
 
-  https://github.com/Azarn/SolutionLab/2016-geoscan/test_task.ino
+  https://github.com/Azarn/SolutionLab/blob/master/2016_geoscan/test_task.ino
 
 */
 
